@@ -1,0 +1,13 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+  background: #e0e5ec;
+}
+
+#textoLink  {
+	text-decoration: none;
+	color: black;
+}
